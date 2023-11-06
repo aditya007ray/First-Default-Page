@@ -1,1 +1,1 @@
-# First Default page, Jekyl page
+# First Default page (Jekyll page)
