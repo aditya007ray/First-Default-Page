@@ -1,4 +1,4 @@
-# First Default page (Jekyll page)
+# This is the Default Jekyll page
 ## Hi,
 ## I am Aaditya Ray!
 ### Aaditya is a Managemenet Consultant, based out of London (United Kingdom)
