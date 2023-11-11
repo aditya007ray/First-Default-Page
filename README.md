@@ -1,5 +1,5 @@
 # Aaditya Ray
-## Hi, This is the Default Jekyll page. This page is owned and managed by Aaditya Ray!
+## Hi, This is the Default Jekyll page. This page is owned and managed by Aaditya !
 ### Aaditya is a Managemenet Consultant, based out of London (United Kingdom)
 #### He Lives in Liverpool Street, London (zone -1), and loves to play and watch Football matches.
 ##### instagram: aditya007ray
